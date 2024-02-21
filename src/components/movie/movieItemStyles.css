@@ -1,0 +1,23 @@
+.movie-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .movie-item img {
+    width: 50%;
+    border-radius: 5px;
+    height: auto;
+  }
+  
+  .movie-item h2 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .movie-item p {
+    margin: 0;
+  }
+  
