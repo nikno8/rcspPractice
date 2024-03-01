@@ -3,7 +3,7 @@ import "./footerStyle.css"
 
 const Footer = () => {
   return (
-    <footer class = "footer">
+    <footer className = "footer">
       <p>&copy; {new Date().getFullYear()} Рецензии фильмов</p>
     </footer>
   );
