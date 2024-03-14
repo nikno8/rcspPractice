@@ -1,0 +1,15 @@
+
+.dialog-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+  }
+  
+  @media (min-width: 768px) {
+    .dialog-list {
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+  

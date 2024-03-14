@@ -1,0 +1,19 @@
+
+.dialog-item {
+    margin-bottom: 6px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+
+  }
+  
+  .dialog-item-link {
+    color: #333;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .dialog-item-link:hover {
+    color: #666;
+  }
+  

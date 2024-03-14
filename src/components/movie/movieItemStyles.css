@@ -4,6 +4,7 @@
     padding: 10px;
     margin-bottom: 20px;
     text-align: center;
+    margin-bottom: 100px;
   }
   
   .movie-item img {
@@ -19,5 +20,6 @@
   
   .movie-item p {
     margin: 0;
+    text-align: center;
   }
   
